@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:text="Continuar"
         android:padding="12dp"
-        android:backgroundTint="@color/purple_500"
+        android:backgroundTint="#85c1e9"
         android:textColor="@android:color/white"/>
 
     <Button
@@ -31,7 +31,7 @@
         android:layout_height="wrap_content"
         android:text="Salir"
         android:padding="12dp"
-        android:backgroundTint="@color/teal_700"
+        android:backgroundTint="#58d68d"
         android:textColor="@android:color/white"
         android:layout_marginTop="16dp"/>
 
